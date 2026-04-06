@@ -1,5 +1,9 @@
 
 
+# Software Engineering, 1st Year, Winter Semester 2024/2025
+
+## Topics
+
 - [Week 01](<./Week 01/>) – Introduction to programming. Data types, basic operations, input and output.  
 - [Week 02](<./Week 02/>) – Conditional statements. Loop operators.  
 - [Week 03](<./Week 03/>) – Conditional statements and loops – consolidation.  
@@ -12,7 +16,16 @@
 - [Week 10](<./Week 10/>) – Working with text.  
 - [Week 11](<./Week 11/>) – Dynamic memory.
 
+</agenda>
 
+### Допълнителни материали
+
+<agendaAdditional>
+
+- [Guide for working with Visual Studio](<./Additional/vs.md>)  
+- [Guide for working with Git and GitHub](<./Additional/git(hub).md>)
+
+</agendaAdditional>
 
 ---
 
