@@ -40,6 +40,8 @@
 - [Guide for working with Visual Studio](<./Additional/vs.md>)  
 - [Guide for working with Git and GitHub](<./Additional/git(hub).md>)
 
+  
+---
 
 <div align="center">
   <!-- Основни badges -->
