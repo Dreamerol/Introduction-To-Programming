@@ -4,7 +4,8 @@
 
 ---
 
-![CPP 2025](https://github.com/Dreamerol/Dreamerol/blob/57256cdf74e94d8afc08a57d630287fa75743da4/!!!_NN_2.jpg)
+![CPP 2025](https://github.com/Dreamerol/Dreamerol/blob/33dc5b2646d8af09a65dd3622b808aa966b2655b/COMP22.jpg)
+
 
 ---
 
