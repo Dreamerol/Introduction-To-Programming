@@ -2,7 +2,9 @@
 <h1 align="center">💻 MODERN C++ CODE – 2024/2025</h1>
 <h2 align="center"><strong><em>Mastering C++: Concepts, Practice & Projects</em></strong></h2>
 
+---
 
+![CPP 2025](https://github.com/Dreamerol/Dreamerol/blob/57256cdf74e94d8afc08a57d630287fa75743da4/!!!_NN_2.jpg)
 
 ---
 
