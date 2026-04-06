@@ -1,6 +1,6 @@
 
 
-# Software Engineering, 1st Year, Winter Semester 2024/2025
+
 
 <h1 align="center">💻 Software Engineering – 1st Year, Winter Semester 2024/2025</h1>
 <p align="center"><strong><em>Course Overview and Weekly Topics</em></strong></p>
