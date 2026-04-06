@@ -27,7 +27,7 @@
 
 </agenda>
 
-### Допълнителни материали
+### Additional Materials
 
 <agendaAdditional>
 
