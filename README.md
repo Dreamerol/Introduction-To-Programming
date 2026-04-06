@@ -2,6 +2,9 @@
 
 # Software Engineering, 1st Year, Winter Semester 2024/2025
 
+<h1 align="center">💻 Software Engineering – 1st Year, Winter Semester 2024/2025</h1>
+<p align="center"><strong><em>Course Overview and Weekly Topics</em></strong></p>
+
 ## Topics
 
 - [Week 01](<./Week 01/>) – Introduction to programming. Data types, basic operations, input and output.  
