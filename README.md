@@ -1,5 +1,19 @@
 
 
+- [Week 01](<./Week 01/>) – Introduction to programming. Data types, basic operations, input and output.  
+- [Week 02](<./Week 02/>) – Conditional statements. Loop operators.  
+- [Week 03](<./Week 03/>) – Conditional statements and loops – consolidation.  
+- [Week 04](<./Week 04/>) – Functions.  
+- [Week 05](<./Week 05/>) – Arrays.  
+- [Week 06](<./Week 06/>) – Multidimensional arrays.  
+- [Week 07](<./Week 07/>) – Number systems.  
+- [Week 08](<./Week 08/>) – Bitwise operations.  
+- [Week 09](<./Week 09/>) – Pointers and references. Working with arrays. Strings.  
+- [Week 10](<./Week 10/>) – Working with text.  
+- [Week 11](<./Week 11/>) – Dynamic memory.
+
+
+
 ---
 
 # Увод в програмирането
