@@ -6,6 +6,8 @@
 
 ![CPP 2025](https://github.com/Dreamerol/Dreamerol/blob/33dc5b2646d8af09a65dd3622b808aa966b2655b/COMP22.jpg)
 
+<img src="https://github.com/Dreamerol/Dreamerol/blob/9c27f8051d0cdf5ce4167beec8fc860919786878/LINUX22.PNG" alt="Linux Screenshot" width="100%">
+
 
 ---
 
