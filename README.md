@@ -15,8 +15,11 @@
   <img src="https://img.shields.io/badge/Projects-Hands-on-orange?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Skills-Algorithms-purple?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Problem_Solving-lightblue?style=flat-square&logo=leetcode&logoColor=white" />
+  
 </div>
+
 ---
+
 ## Topics
 
 - [Week 01](<./Week 01/>) – Introduction to programming. Data types, basic operations, input and output.  
@@ -45,6 +48,7 @@
   <img src="https://img.shields.io/badge/Level-Beginner-9cf?style=flat-square" />
   
 </div>
+
 
 
 ---
