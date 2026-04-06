@@ -1,6 +1,8 @@
 
-<h1 align="center">💻 C++ Programming – 2024/2025</h1>
+<h1 align="center">💻 MODERN C++ CODE – 2024/2025</h1>
 <h2 align="center"><strong><em>Mastering C++: Concepts, Practice & Projects</em></strong></h2>
+
+
 
 ---
 
