@@ -1,6 +1,6 @@
 
 <h1 align="center">💻 C++ Programming – 2024/2025</h1>
-## <p align="center"><strong><em>Mastering C++: Concepts, Practice & Projects</em></strong></p>
+<h2 align="center"><strong><em>Mastering C++: Concepts, Practice & Projects</em></strong></h2>
 
 <div align="center">
   
