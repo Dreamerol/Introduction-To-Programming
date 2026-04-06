@@ -38,6 +38,17 @@
 
 ---
 
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDE-Visual_Studio-lightgrey?style=flat-square&logo=visual-studio&logoColor=purple" />
+  <img src="https://img.shields.io/badge/Topics-Programming_Fundamentals-yellow?style=flat-square&logo=git&logoColor=black" />
+  <img src="https://img.shields.io/badge/Level-Beginner-9cf?style=flat-square" />
+  
+</div>
+
+---
+
 # Увод в програмирането
 
 ##### СИ, 1 курс, 6 група, Зимен семестър, 2024/2025
