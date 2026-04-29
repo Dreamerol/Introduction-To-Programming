@@ -1,14 +1,13 @@
 
-<h1 align="center">💻 MODERN C++ CODE – 2024/2025</h1>
+<h1 align="center">💻 𝗠𝗢𝗗𝗘𝗥𝗡 𝗖++ 𝗖𝗢𝗗𝗘 – 𝟮𝟬𝟮𝟰/𝟮𝟬𝟮𝟱</h1>
 <h2 align="center"><strong><em>Mastering C++: Concepts, Practice & Projects</em></strong></h2>
 
----
+<br>
 
 ![CPP 2025](https://github.com/Dreamerol/Dreamerol/blob/33dc5b2646d8af09a65dd3622b808aa966b2655b/COMP22.jpg)
 
 
-
----
+<br>
 
 <div align="center">
   <!-- Основни badges -->
