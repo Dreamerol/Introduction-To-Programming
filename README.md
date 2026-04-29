@@ -1,6 +1,6 @@
 
 <h1 align="center">💻 𝗠𝗢𝗗𝗘𝗥𝗡 𝗖++ 𝗖𝗢𝗗𝗘 – 𝟮𝟬𝟮𝟰/𝟮𝟬𝟮𝟱</h1>
-<h2 align="center"><strong><em>Mastering C++: Concepts, Practice & Projects</em></strong></h2>
+<h2 align="center"><strong><em>Mastering C++ : Concepts, Practice & Projects</em></strong></h2>
 
 <br>
 
