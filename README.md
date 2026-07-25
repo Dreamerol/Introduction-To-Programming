@@ -149,15 +149,16 @@
 
 
 
-
-
 <div align="center">
 
-<a>
-  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_Banner-Data-777.JPG?raw=true" />
-</a>
-
+<a href="https://github.com/Dreamerol/CARDFOLIO">
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_Banner-Data-777.JPG?raw=true"
+    alt="Mihaela Koseva, Михаела Косева - AI Engineer, Software Engineer, Applied Machine Learning, Data Science Portfolio"
+    />
+  </a>
 </div>
+
 
 
 
@@ -195,6 +196,90 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 </p>
 
 </div>
+
+
+
+
+
+
+
+<br><br>
+
+
+
+
+
+<div align="center">
+  <a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA_11.PNG"
+      width="100%"
+      alt="Mihaela Koseva, Михаела Косева - AI Engineer, Software Engineer, Applied Machine Learning, Data Science Portfolio"
+    />
+  </a>
+</div>
+
+
+
+
+
+
+<br><br>
+
+
+
+
+
+---
+
+
+
+
+
+
+<table align="center" cellspacing="0" cellpadding="2">
+<tr>
+
+<td>
+<a href="https://www.linkedin.com/in/mihaela-koseva-software-engineer" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20LINKEDIN.png" height="130">
+</a>
+</td>
+
+
+<td>
+<a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20PORTFOLIO.png" height="130">
+</a>
+</td>
+
+<td>
+<a href="https://github.com/Dreamerol/CARDFOLIO" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20REPOSITORIES.png" height="130">
+</a>
+</td>
+
+<td>
+<a href="https://github.com/Dreamerol/ALLSTATS" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20STATS.png" height="130">
+</a>
+</td>
+
+<td>
+<a href="https://github.com/Dreamerol/RESUME" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20RESUME.png" height="130">
+</a>
+</td>
+
+</tr>
+</table>
+
+
+
+
+
+
+<br><br><br><br>
 
 
 
