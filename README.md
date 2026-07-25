@@ -3,8 +3,15 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/a13e23bc600e498f19a9360a63bd5f23bb1f99b2/CPP.jpg" width="100%" />
+  <a href="https://github.com/Dreamerol">
+    <img 
+      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/a13e23bc600e498f19a9360a63bd5f23bb1f99b2/CPP.jpg" 
+      width="100%"
+      alt="Mihaela Koseva (Михаела Косева) - AI Software Engineer, C++ Developer, Software Engineering Projects, Backend Development, Data Systems, Algorithms, Machine Learning, GitHub Portfolio"
+    />
+  </a>
 </p>
+
 
 
 
