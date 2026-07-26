@@ -92,6 +92,39 @@
 
 
 
+
+# 📘 Introduction to Programming (C++)
+
+Course materials and programming exercises for the **Introduction to Programming** course at the **Faculty of Mathematics and Informatics (FMI), Sofia University**, Winter Semester **2024/2025**.
+
+## 📚 Topics
+
+* Week 01 — Introduction • Data Types • Input & Output
+* Week 02 — Conditionals • Loops
+* Week 03 — Practice: Conditionals & Loops
+* Week 04 — Functions
+* Week 05 — Arrays
+* Week 06 — Multidimensional Arrays
+* Week 07 — Number Systems
+* Week 08 — Bitwise Operations
+* Week 09 — Pointers • References • C-Strings
+* Week 10 — Text Processing
+* Week 11 — Dynamic Memory
+
+## 🛠 Language
+
+* C++
+
+
+
+
+
+<br><br>
+
+
+
+
+
 <h2 align="center"> 
  👉 <a href="https://github.com/Dreamerol/PORTFOLIO"> 
   <em>Selected SWE & Data Projects →</em>
