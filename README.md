@@ -94,7 +94,7 @@
 
 # 📘 Introduction to Programming (C++)
 
-Programming exercises, laboratory solutions, and course materials for **Introduction to Programming** at the **Faculty of Mathematics and Informatics (FMI), Sofia University "St. Kliment Ohridski"**, Winter Semester **2024/2025**.
+Programming exercises, implementations, and course materials for **Introduction to Programming** at the **Faculty of Mathematics and Informatics (FMI), Sofia University "St. Kliment Ohridski"**.
 
 
 
