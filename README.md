@@ -157,6 +157,12 @@ Compile with Visual Studio or any C++17 compatible compiler.
 
 
 
+---
+
+
+
+<br><br>
+
 
 
 <h2 align="center"> 
@@ -271,19 +277,6 @@ Compile with Visual Studio or any C++17 compatible compiler.
 
 
 
-
-
-
-
-<br>
-<br>
-
-
-
-
-
-
----
 
 
 
