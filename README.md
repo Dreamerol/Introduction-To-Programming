@@ -161,6 +161,20 @@ Compile with Visual Studio or any C++17 compatible compiler.
 
 
 
+<div align="center">
+
+<a href="https://github.com/Dreamerol/CARDFOLIO">
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_Banner-Data-777.JPG?raw=true"
+    alt="Mihaela Koseva, Михаела Косева - AI Engineer, Software Engineer, Applied Machine Learning, Data Science Portfolio"
+    />
+  </a>
+</div>
+
+
+
+
+
 <br><br>
 
 
@@ -262,27 +276,6 @@ Compile with Visual Studio or any C++17 compatible compiler.
 
 
 <br><br>
-
-
-
-<div align="center">
-
-<a href="https://github.com/Dreamerol/CARDFOLIO">
-  <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_Banner-Data-777.JPG?raw=true"
-    alt="Mihaela Koseva, Михаела Косева - AI Engineer, Software Engineer, Applied Machine Learning, Data Science Portfolio"
-    />
-  </a>
-</div>
-
-
-
-
-
-
-
-<br>
-<br>
 
 
 
