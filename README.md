@@ -97,6 +97,8 @@
 A collection of C++ programming exercises, implementations, and reference materials covering fundamental programming concepts, algorithms, and memory management from the **C++ Programming course** at the **Faculty of Mathematics and Informatics (FMI), Sofia University "St. Kliment Ohridski"**.
 
 
+<br>
+
 
 ## 📚 Topics
 
@@ -112,17 +114,8 @@ A collection of C++ programming exercises, implementations, and reference materi
 * **Week 10** — Text Processing
 * **Week 11** — Dynamic Memory
 
-  
 
-## 🛠 Technologies
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45" alt="Visual Studio"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub"/>
-</p>
-
+ <br>
 
 
 ## 🛠 Technologies
@@ -136,6 +129,8 @@ A collection of C++ programming exercises, implementations, and reference materi
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub"/>
 </p>
+
+<br>
 
 
 ## 🎯 Learning Objectives
@@ -146,6 +141,9 @@ A collection of C++ programming exercises, implementations, and reference materi
 * Work confidently with functions, arrays, and pointers
 * Understand memory management and dynamic allocation
 * Solve practical programming and algorithmic challenges
+
+
+<br>
 
 
 ## ▶️ Build
