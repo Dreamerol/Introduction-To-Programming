@@ -149,7 +149,7 @@ A collection of C++ programming exercises, implementations, and reference materi
 
 ## ▶️ Build
 
-Compile with Visual Studio or any C++17 compatible compiler.
+Compile using Visual Studio or any C++17 compatible compiler.
 
 
 
