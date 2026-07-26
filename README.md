@@ -1,5 +1,7 @@
 
 
+
+
 <div align="center">
 
 <h1>
@@ -133,6 +135,10 @@ Programming exercises, laboratory solutions, and course materials for **Introduc
 * Understand memory management and dynamic allocation
 * Solve practical programming and algorithmic challenges
 
+
+## ▶️ Build
+
+Compile with Visual Studio or any C++17 compatible compiler.
 
 
 
