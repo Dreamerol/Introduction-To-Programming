@@ -90,30 +90,48 @@
 
 
 
-
-
-
 # 📘 Introduction to Programming (C++)
 
-Course materials and programming exercises for the **Introduction to Programming** course at the **Faculty of Mathematics and Informatics (FMI), Sofia University**, Winter Semester **2024/2025**.
+Programming exercises, laboratory solutions, and course materials for **Introduction to Programming** at the **Faculty of Mathematics and Informatics (FMI), Sofia University "St. Kliment Ohridski"**, Winter Semester **2024/2025**.
+
+
 
 ## 📚 Topics
 
-* Week 01 — Introduction • Data Types • Input & Output
-* Week 02 — Conditionals • Loops
-* Week 03 — Practice: Conditionals & Loops
-* Week 04 — Functions
-* Week 05 — Arrays
-* Week 06 — Multidimensional Arrays
-* Week 07 — Number Systems
-* Week 08 — Bitwise Operations
-* Week 09 — Pointers • References • C-Strings
-* Week 10 — Text Processing
-* Week 11 — Dynamic Memory
+* **Week 01** — Introduction • Data Types • Input & Output
+* **Week 02** — Conditional Statements • Loops
+* **Week 03** — Practice: Conditionals & Loops
+* **Week 04** — Functions
+* **Week 05** — Arrays
+* **Week 06** — Multidimensional Arrays
+* **Week 07** — Number Systems
+* **Week 08** — Bitwise Operations
+* **Week 09** — Pointers • References • C-Strings
+* **Week 10** — Text Processing
+* **Week 11** — Dynamic Memory
 
-## 🛠 Language
+  
 
-* C++
+## 🛠 Technologies
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45" alt="Visual Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub"/>
+</p>
+
+
+
+
+## 🎯 Learning Objectives
+
+* Build a solid foundation in modern C++ programming
+* Develop algorithmic and logical thinking
+* Master structured programming concepts
+* Work confidently with functions, arrays, and pointers
+* Understand memory management and dynamic allocation
+* Solve practical programming and algorithmic challenges
 
 
 
