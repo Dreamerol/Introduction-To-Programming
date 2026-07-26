@@ -94,7 +94,7 @@
 
 # 📘 Introduction to Programming (C++)
 
-Programming exercises, implementations, and course materials for **Introduction to Programming** at the **Faculty of Mathematics and Informatics (FMI), Sofia University "St. Kliment Ohridski"**.
+A collection of C++ programming exercises, implementations, and reference materials covering fundamental programming concepts, algorithms, and memory management from the **C++ Programming course** at the **Faculty of Mathematics and Informatics (FMI), Sofia University "St. Kliment Ohridski"**.
 
 
 
