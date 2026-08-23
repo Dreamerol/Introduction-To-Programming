@@ -143,9 +143,12 @@ Compile using Visual Studio or any C++17 compatible compiler.
 
 
 
-<h2 align="center">⭐ Feel free to explore repos and star if you find them interesting</h2>
 
 
+
+
+
+<h2 align="center">⭐ Explore repos & star what you find interesting.</h2>
 
 
 
